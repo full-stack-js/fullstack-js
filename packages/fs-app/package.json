@@ -24,6 +24,6 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "bugs": {
-    "url": "https://github.com/maxim-andrews/full-stack-js/issues"
+    "url": "https://github.com/full-stack-js/fullstack-js/issues"
   }
 }
